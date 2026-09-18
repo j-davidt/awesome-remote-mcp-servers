@@ -89,6 +89,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Linear | Project Management | `https://mcp.linear.app/sse` | OAuth2.1 | [Linear](https://linear.app) |
 | Listenetic | Productivity | `https://mcp.listenetic.com/v1/mcp` | OAuth2.1 | [Listenetic](https://app.listenetic.com) |
 | Meta Ads by Pipeboard | Advertising | `https://mcp.pipeboard.co/meta-ads-mcp` | OAuth2.1 | [Pipeboard](https://pipeboard.co) |
+| MindMap AI | Productivity | `https://mindmapai.app/mcp` | OAuth2.1 | [MindMap AI](https://mindmapai.app/) |
 | MorningStar | Data Analysis | `https://mcp.morningstar.com/mcp` | OAuth2.1 | [MorningStar](https://morningstar.com) |
 | monday.com | Productivity | `https://mcp.monday.com/sse` | OAuth2.1 |  [monday MCP](https://github.com/mondaycom/mcp) |
 | Neon | Software Development | `https://mcp.neon.tech/sse` | OAuth2.1 | [Neon](https://neon.tech) |
